@@ -1,6 +1,2 @@
 print("hello from p1")
-print("after comit")
-print("2nd commit")
-print("2nd commit")
-print("3nd commit")
-print("4th commit")
+
